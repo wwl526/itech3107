@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">FedUni Student Attendance 30395626</string>
+    <string name="app_name1">Student Attendance</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Account">Account</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="ConfirmPassword">Confirm\nPassword</string>
+    <string name="Back">Back</string>
+    <string name="Save">Save</string>
+
+    <string name="LoginActivity_java__Failed1">Account or password cannot be empty!</string>
+    <string name="LoginActivity_java__Failed2">Account does not exist, please re-enter！</string>
+    <string name="LoginActivity_java__Successfully1">Login successful!</string>
+    <string name="LoginActivity_java__Failed3">Password error, please re-enter!</string>
+    <string name="LoginActivity_xml__Hint1">Input teacher account</string>
+    <string name="LoginActivity_xml__Hint2">Input password</string>
+
+    <string name="RegisterActivity_java__Failed1">Registration failed! Account or password cannot be empty</string>
+    <string name="RegisterActivity_java__Failed2">Registration failed! The two password inputs are inconsistent</string>
+    <string name="RegisterActivity_java__Failed3">Registration failed! Account already exists</string>
+    <string name="RegisterActivity_java__Successfully1">Registration successful!</string>
+    <string name="RegisterActivity_xml__NewUserRegistration">New User Registration</string>
+    <string name="RegisterActivity_xml__Hint1">Input teacher account</string>
+    <string name="RegisterActivity_xml__Hint2">Input password</string>
+    <string name="RegisterActivity_xml__Hint3">Input password again</string>
+
+    <string name="activity.MainActivity_label">Course List</string>
+    <string name="MainActivity.java_Please">Course List</string>
+    <string name="MainActivity_java__Select">Please select an action</string>
+    <string name="MainActivity_java__AddStudents">Add Student</string>
+    <string name="MainActivity_java__DeleteCourse">Delete Course</string>
+    <string name="MainActivity__AddCourse">Add Course</string>
+    <string name="MainActivity_java__SetDate1_1">Set the</string>
+    <string name="MainActivity_java__SetDate1_2">weekly class hours and dates</string>
+    <string name="MainActivity_java__Dialog_AddStudents">Add students to the course</string>
+    <string name="MainActivity_java__Failed1">Adding failed! Course name cannot be empty!</string>
+    <string name="MainActivity_java__Failed2_1">Adding failed! The</string>
+    <string name="MainActivity_java__Failed2_2"> weekly setting date cannot be empty!</string>
+    <string name="MainActivity_java__Failed3">Adding failed! Course already exists!</string>
+    <string name="MainActivity_java__Failed4">Setting failed! No date selected</string>
+    <string name="MainActivity_java__Failed5">Adding failed! Student ID or name or class name cannot be empty!</string>
+    <string name="MainActivity_java__Failed6">Adding failed! The student already exists!</string>
+    <string name="MainActivity_java__Successfully3_1">Add student with ID=\"</string>
+    <string name="MainActivity_java__Successfully3_2">\",+Name=\"</string>
+    <string name="MainActivity_java__Successfully3_3">\")successfully！</string>
+    <string name="MainActivity_java__Successfully1_1">Add Course\"</string>
+    <string name="MainActivity_java__Successfully1_2">\"successfully！</string>
+    <string name="MainActivity_java__Successfully2">Course deleted successfully!</string>
+    <string name="MainActivity_xml__hint">Tip:\n1.Click on the course to display a new page for marking attendance status;\n2.Long press on the course, choose to delete the course, or add students to the course.</string>
+
+    <string name="AttendanceActivity_java__Title1_1">\"</string>
+    <string name="AttendanceActivity_java__Title1_2">\" Attendance</string>
+    <string name="AttendanceActivity_java__Successfully1">Successfully saved!</string>
+    <string name="AttendanceActivity_xml__TextView1">Please select an date:</string>
+    <string name="AttendanceActivity_xml__TextView2">Student ID</string>
+    <string name="AttendanceActivity_xml__TextView3">Student Name</string>
+    <string name="AttendanceActivity_xml__TextView4">IsAttendanced</string>
+
+    <string name="attendance_adapter_xml__TextView1">ID</string>
+    <string name="attendance_adapter_xml__TextView2">Name</string>
+    <string name="student_dialog_xml__Hint1">Please enter the student ID</string>
+    <string name="student_dialog_xml__Hint2">Please enter the student\'s name</string>
+    <string name="student_dialog_xml__Hint3">Please enter the student\'s class</string>
+    <string name="course_dialog_xml__Hint0">Please enter the course name</string>
+    <string name="course_dialog_xml__Hint1">Click to add the first week\'s class date</string>
+    <string name="course_dialog_xml__Hint2">Click to add the second week\'s class date</string>
+    <string name="course_dialog_xml__Hint3">Click to add the 3rd week\'s class date</string>
+    <string name="course_dialog_xml__Hint4">Click to add the 4th week\'s class date</string>
+    <string name="course_dialog_xml__Hint5">Click to add the 5th week\'s class date</string>
+    <string name="course_dialog_xml__Hint6">Click to add the 6th week\'s class date</string>
+    <string name="course_dialog_xml__Hint7">Click to add the 6th week\'s class date</string>
+    <string name="course_dialog_xml__Hint8">Click to add the 8th week\'s class date</string>
+    <string name="course_dialog_xml__Hint9">Click to add the 9th week\'s class date</string>
+    <string name="course_dialog_xml__Hint10">Click to add the 10th week\'s class date</string>
+    <string name="course_dialog_xml__Hint11">Click to add the 11th week\'s class date</string>
+    <string name="course_dialog_xml__Hint12">Click to add the 12th week\'s class date</string>
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+<!-- Set Sunday as the first day of the week,
+
+Set this component to display for a total of 12 weeks,
+
+And customized the date and time of the component -->
+<CalendarView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:firstDayOfWeek="1"
+    android:shownWeekCount="12"
+    android:selectedWeekBackgroundColor="#aff"
+    android:focusedMonthDateColor="#f00"
+    android:weekSeparatorLineColor="#ff0"
+    android:unfocusedMonthDateColor="#f9f"
+    android:id="@+id/calendarView" />
+</LinearLayout>
